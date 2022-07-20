@@ -1,3 +1,6 @@
 echo I finished the boilerplate!
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+echo one more thing...
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
